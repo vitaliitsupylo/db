@@ -1,96 +1,64 @@
 {
-   "data":[
-      {
-         "id":"1",
-         "type":"location",
-         "attributes":{
-            "geo":{
-               "lat":"50.00",
-               "lng":"34.12"
-            },
-            "name":"Пуща-Водиця",
-            "description":"До послуг членів клубу корти з сучасним покриттям",
-            "schedule":{
-               "hours":{
-                  "monday":[
-                     {
-                        "start":"0900",
-                        "finish":"1300"
-                     },
-                     {
-                        "start":"1400",
-                        "finish":"1800"
-                     }
-                  ],
-                  "tuesday":[
-
-                  ],
-                  "wednesday":[
-
-                  ],
-                  "thursday":[
-
-                  ],
-                  "friday":[
-
-                  ],
-                  "saturday":[
-
-                  ],
-                  "sunday":[
-
-                  ]
-               }
-            },
-            "contacts":[
-               {
-                  "entryId":1,
-                  "label":"work",
-                  "type":"tel",
-                  "uri":"+380503665051"
-               }
-            ],
-            "messsages":[
-               "З 01.09.2020 на локації будть підняті ціни ан 20%",
-               "Lorem impsum"
-            ]
-         },
-         "relationships":{
-            "courts":{
-               "data":[
-                  {
-                     "id":"1",
-                     "type":"courts",
-                     "atributes":{
-                        "name":"Корт №1",
-                        "coating":"травяное",
-                        "opened":"true"
-                     }
-                  },
-                  {
-                     "id":"2",
-                     "type":"courts",
-                     "atributes":{
-                        "name":"Корт №2",
-                        "coating":"грунтовое",
-                        "opened":"false"
-                     }
-                  }
-               ],
-               "links":{
-                  "self":"http://example.com/locations/1/relationships/courts"
-               }
-            }
-         },
-         "links":{
-            "self":"http://example.com/locations/1"
-         }
-      }
-   ],
-   "meta":{
-      "count":"128"
-   },
-   "links":{
-      "self":"http://example.com/locations"
-   }
-}
+   "location": [
+     {
+       "type": "Корти",
+       "name": "Тенісний клуб МТА (Соломенка)",
+       "description": "Професійна команда тренерів, сучасні грунтові корти, рівномірне і безшумне освітлення зимового купола",
+       "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Соломенка.jpg",
+       "geo": {
+         "lat": "50.426356",
+         "lng": "30.472605"
+       }
+     },
+     {
+       "type": "Корти",
+       "name": "Арена МТА, Жуляни",
+       "description": "До послуг тенісистів і членів клубу МТА 13 кортів з сучасним професійним покриттям",
+       "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Жуляни.jpg",
+       "geo": {
+         "lat": "50.414486",
+         "lng": "30.447957"
+       }
+     },
+     {
+       "type": "Корти",
+       "name": "Арена МТА, Жуляни",
+       "description": "До послуг тенісистів і членів клубу МТА 13 кортів з сучасним професійним покриттям",
+       "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Жуляни.jpg",
+       "geo": {
+         "lat": "50.414486",
+         "lng": "30.447957"
+       }
+     },
+     {
+       "type": "Корти",
+       "name": "Арена МТА, Жуляни",
+       "description": "До послуг тенісистів і членів клубу МТА 13 кортів з сучасним професійним покриттям",
+       "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Жуляни.jpg",
+       "geo": {
+         "lat": "50.414486",
+         "lng": "30.447957"
+       }
+     },
+     {
+       "type": "Корти",
+       "name": "Арена МТА, Жуляни",
+       "description": "До послуг тенісистів і членів клубу МТА 13 кортів з сучасним професійним покриттям",
+       "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Жуляни.jpg",
+       "geo": {
+         "lat": "50.414486",
+         "lng": "30.447957"
+       }
+     },
+     {
+       "type": "Корти",
+       "name": "МТА: Пуща-Водиця",
+       "description": "До послуг тенісистів і членів клубу МТА 19 кортів з сучасним професійним покриттям",
+       "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Пуща-Водиця.jpg",
+       "geo": {
+         "lat": "50.529772",
+         "lng": "30.371085"
+       }
+     }
+   ]
+ }
