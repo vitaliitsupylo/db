@@ -1,5 +1,19 @@
 {
-	"uk": {
-        
-    }
+	"onboarding": [
+		{
+			"title": "Оберіть локацію",
+			"img": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/racket-field.png",
+			"text": "Лорем ипсум долор сит амет, яуандо цопиосае реферрентур еи при."
+		},
+		{
+			"title": "Забронюйте вільний час",
+			"img": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/two-racket-field.png",
+			"text": "Еум еи нонумы поссим алияуам. Те проприае принципес дефинитионем усу, ест амет инани темпорибус ат, еи вирис нолуиссе еос."
+		},
+		{
+			"title": "Гарної гри!",
+			"img": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/racket-boy.png",
+			"text": "Вих хомеро утамур инвенире ет, еа про натум цорпора. Ад делецтус хонестатис меа, усу нобис партиендо ин."
+		}
+	]
 }
