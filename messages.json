@@ -35,6 +35,9 @@
 			"cardTermTitle": "Термін придатності",
 			"cardCodeTitle": "Код безпеки",
 			"cardNameTitle": "Власник картки"
+		},
+		"other": {
+			"km": "км"
 		}
 	},
 	"tabs": {
