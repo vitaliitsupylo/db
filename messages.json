@@ -98,11 +98,11 @@
 				"image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/racket-boy.png",
 				"text": "Вих хомеро утамур инвенире ет, еа про натум цорпора. Ад делецтус хонестатис меа, усу нобис партиендо ин."
 			}
-		]
-	},
-	"tickets": {
-		"thereNothing": "Тут ще нічого немає",
-		"ticketBgImage": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/ticketBg.png"
+		],
+		"tickets": {
+			"thereNothing": "Тут ще нічого немає",
+			"ticketBgImage": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/ticketBg.png"
+		},
 	},
 	"questionsContact": {
 		"text": "З усіх питань щодо членства звертайтесь до адміністратора або за номером",
