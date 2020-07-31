@@ -102,7 +102,7 @@
 		"tickets": {
 			"thereNothing": "Тут ще нічого немає",
 			"ticketBgImage": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/ticketBg.png"
-		},
+		}
 	},
 	"questionsContact": {
 		"text": "З усіх питань щодо членства звертайтесь до адміністратора або за номером",
