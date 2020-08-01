@@ -39,6 +39,10 @@
 		},
 		"other": {
 			"km": "км"
+		},
+		"logo": {
+			"white": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/MTA-logo-white.png",
+			"gray": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/MTA-logo-gray.png"
 		}
 	},
 	"tabs": {
