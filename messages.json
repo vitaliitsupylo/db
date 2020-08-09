@@ -69,17 +69,45 @@
 			"titlePopupSms": "Виберіть телефон для підтвердження"
 		},
 		"search": {
-			"time": "Час",
-			"hour": "година",
-			"hours": "години",
-			"coating": "Покриття",
-			"type": "Тип",
-			"covered": "Критий",
-			"open": "Відкритий",
-			"priming": "Грунт",
-			"herb": "Трава",
-			"hard": "Хард",
-			"parquetry": "Паркет"
+			"time": {
+				"name": "Час",
+				"tags": [
+					{
+						"name": "1 година"
+					},
+					{
+						"name": "1.5 години"
+					}
+				]
+			},
+			"coating": {
+				"name": "Покриття",
+				"tags": [
+					{
+						"name": "Грунт"
+					},
+					{
+						"name": "Трава"
+					},
+					{
+						"name": "Хард"
+					},
+					{
+						"name": "Паркет"
+					}
+				]
+			},
+			"type": {
+				"name": "Тип",
+				"tags": [
+					{
+						"name": "Критий"
+					},
+					{
+						"name": "Відкритий"
+					}
+				]
+			}
 		},
 		"advantages": {
 			"image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/advantages-img.jpg",
