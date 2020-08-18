@@ -1,37 +1,31 @@
 {
-	"location": [
-		{
-			"id": 1,
-			"name": "Тенісний клуб МТА (Соломенка)",
-			"category": "МТА",
-			"description": "Професійна команда тренерів, сучасні грунтові корти, рівномірне і безшумне освітлення зимового купола",
-			"image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Соломенка.jpg",
-			"geo": {
-				"latitude": "50.426356",
-				"longitude": "30.472605"
-			}
-		},
-		{
-			"id": 2,
-			"name": "Арена МТА, Жуляни",
-			"category": "МТА",
-			"description": "До послуг тенісистів і членів клубу МТА 13 кортів з сучасним професійним покриттям",
-			"image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Жуляни.jpg",
-			"geo": {
-				"latitude": "50.414486",
-				"longitude": "30.447957"
-			}
-		},
-		{
-			"id": 3,
-			"name": "МТА: Пуща-Водиця",
-			"category": "МТА",
-			"description": "До послуг тенісистів і членів клубу МТА 19 кортів з сучасним професійним покриттям",
-			"image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Пуща-Водиця.jpg",
-			"geo": {
-				"latitude": "50.529772",
-				"longitude": "30.371085"
-			}
-		}
-	]
+  "location": [
+    {
+      "id": 1,
+      "name": "Тенісний клуб МТА (Соломенка)",
+      "category": "МТА",
+      "description": "Професійна команда тренерів, сучасні грунтові корти, рівномірне і безшумне освітлення зимового купола",
+      "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Соломенка.jpg",
+      "latitude": "50.426356",
+      "longitude": "30.472605"
+    },
+    {
+      "id": 2,
+      "name": "Арена МТА, Жуляни",
+      "category": "МТА",
+      "description": "До послуг тенісистів і членів клубу МТА 13 кортів з сучасним професійним покриттям",
+      "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Жуляни.jpg",
+      "latitude": "50.414486",
+      "longitude": "30.447957"
+    },
+    {
+      "id": 3,
+      "name": "МТА: Пуща-Водиця",
+      "category": "МТА",
+      "description": "До послуг тенісистів і членів клубу МТА 19 кортів з сучасним професійним покриттям",
+      "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Пуща-Водиця.jpg",
+      "latitude": "50.529772",
+      "longitude": "30.371085"
+    }
+  ]
 }
