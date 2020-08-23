@@ -1,149 +1,151 @@
 {
-	"messages": {
-		"navigationTitle": {
-			"enterMember": "Вхід для членів Клуба",
-			"enterAnonymous": "Звичайний вхід",
-			"benefitsMembers": "Переваги членам Клубу",
-			"clubCards": "Карти Клубу",
-			"available": "Доступні корти для бронювання",
-			"tickets": "Квитки"
-		},
-
-		"buttons": {
-			"begin": "Розпочати",
-			"continue": "Продовжити",
-			"enter": "Увійти",
-			"enterMember": "Вхід для членів Клуба",
-			"enterAnonymous": "Звичайний вхід",
-			"details": "Детальніше",
-			"find": "Знайти",
-			"inform": "Повідомити",
-			"refund": "Повернути кошти",
-			"back": "Назад",
-			"pay": "Сплатити",
-			"delete": "Видалити",
-			"cancel": "Відмінити",
-			"newLocation": "Оберіть нову локацію"
-		},
-		"placeholder": {
-			"phone": "Номер телефону",
-			"cardClub": "Номер Карти клуба МТА",
-			"codeSms": "Введіть пароль з СМС",
-			"cardPay": "Введіть номер картки",
-			"cardCodePay": "Security Code",
-			"cardNamePay": "Так, як на Вашій картці",
-			"cardTitle": "Номер картки",
-			"cardTermTitle": "Термін придатності",
-			"cardCodeTitle": "Код безпеки",
-			"cardNameTitle": "Власник картки"
-		},
-		"other": {
-			"km": "км"
-		},
-		"logo": {
-			"white": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/MTA-logo-white.png",
-			"gray": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/MTA-logo-gray.png"
-		}
-	},
-	"tabs": {
-		"main": {
-			"name": "Головна"
-		},
-		"search": {
-			"name": "Пошук"
-		},
-		"stocks": {
-			"name": "Акції"
-		},
-		"profile": {
-			"name": "Профіль"
-		}
-	},
-	"pages": {
-		"welcome": {
-			"title": "Вітаємо в Міжнародній Тенісній Академії",
-			"text": "Індивідуальні тренування допоможуть вам набратися сил, прийти в кращу форму і приймати здоровий спосіб життя"
-		},
-		"enter": {
-			"linkAdvantagesMember": "Переваги для членів Клубу",
-			"titlePopupSms": "Виберіть телефон для підтвердження"
-		},
-		"search": {
-			"time": {
-				"name": "Час",
-				"type": "radio",
-				"tag": [
-					{
-						"name": "1 година"
-					},
-					{
-						"name": "1.5 години"
-					}
-				]
-			},
-			"coating": {
-				"name": "Покриття",
-				"tag": [
-					{
-						"name": "Грунт"
-					},
-					{
-						"name": "Трава"
-					},
-					{
-						"name": "Хард"
-					},
-					{
-						"name": "Паркет"
-					}
-				]
-			},
-			"type": {
-				"name": "Тип",
-				"tag": [
-					{
-						"name": "Критий"
-					},
-					{
-						"name": "Відкритий"
-					}
-				]
-			},
-			"filter": {
-				"title": "Фільтр",
-				"all": "Показувати всі",
-				"available": "Показувати тільки доступні"
-			}
-		},
-		"advantages": {
-			"image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/advantages-img.jpg",
-			"text": "Теніс у Києві відкриває величезні можливості для всіх сучасних енергійних людей. Цей вид спорту став по-справжньому доступний тільки в останні роки, коли з’явилися професійно підготовлені тренери та високотехнологічна спортивна база.\n\n Криті тенісні корти, які відповідають міжнародним стандартам, дозволяють проводити заняття регулярно, в тому числі в негоду, що дуже важливо для освоєння ігрової техніки.",
-			"linkCardClub": "Карти Клубу"
-		},
-		"onboarding": [
-			{
-				"title": "Оберіть локацію",
-				"image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/racket-field.png",
-				"text": "Лорем ипсум долор сит амет, яуандо цопиосае реферрентур еи при."
-			},
-			{
-				"title": "Забронюйте вільний час",
-				"image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/two-racket-field.png",
-				"text": "Еум еи нонумы поссим алияуам. Те проприае принципес дефинитионем усу, ест амет инани темпорибус ат, еи вирис нолуиссе еос."
-			},
-			{
-				"title": "Гарної гри!",
-				"image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/racket-boy.png",
-				"text": "Вих хомеро утамур инвенире ет, еа про натум цорпора. Ад делецтус хонестатис меа, усу нобис партиендо ин."
-			}
-		],
-		"tickets": {
-			"thereNothing": "Тут ще нічого немає",
-			"ticketBgImage": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/ticketBg.png"
-		}
-	},
-	"questionsContact": {
-		"text": "З усіх питань щодо членства звертайтесь до адміністратора або за номером",
-		"phones": ["+380 67 209 88 28"]
-	}
+  "messages": {
+    "navigationTitle": {
+      "enterMember": "Вхід для членів Клуба",
+      "enterAnonymous": "Звичайний вхід",
+      "benefitsMembers": "Переваги членам Клубу",
+      "clubCards": "Карти Клубу",
+      "available": "Доступні корти для бронювання",
+      "tickets": "Квитки",
+      "search": "Виберіть розташування"
+    },
+    "buttons": {
+      "begin": "Розпочати",
+      "continue": "Продовжити",
+      "enter": "Увійти",
+      "enterMember": "Вхід для членів Клуба",
+      "enterAnonymous": "Звичайний вхід",
+      "details": "Детальніше",
+      "find": "Знайти",
+      "inform": "Повідомити",
+      "refund": "Повернути кошти",
+      "back": "Назад",
+      "pay": "Сплатити",
+      "delete": "Видалити",
+      "cancel": "Відмінити",
+      "newLocation": "Оберіть нову локацію"
+    },
+    "placeholder": {
+      "phone": "Номер телефону",
+      "cardClub": "Номер Карти клуба МТА",
+      "codeSms": "Введіть пароль з СМС",
+      "cardPay": "Введіть номер картки",
+      "cardCodePay": "Security Code",
+      "cardNamePay": "Так, як на Вашій картці",
+      "cardTitle": "Номер картки",
+      "cardTermTitle": "Термін придатності",
+      "cardCodeTitle": "Код безпеки",
+      "cardNameTitle": "Власник картки"
+    },
+    "other": {
+      "km": "км"
+    },
+    "logo": {
+      "white": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/MTA-logo-white.png",
+      "gray": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/MTA-logo-gray.png"
+    }
+  },
+  "tabs": {
+    "main": {
+      "name": "Головна"
+    },
+    "search": {
+      "name": "Пошук"
+    },
+    "stocks": {
+      "name": "Акції"
+    },
+    "profile": {
+      "name": "Профіль"
+    }
+  },
+  "pages": {
+    "welcome": {
+      "title": "Вітаємо в Міжнародній Тенісній Академії",
+      "text": "Індивідуальні тренування допоможуть вам набратися сил, прийти в кращу форму і приймати здоровий спосіб життя"
+    },
+    "enter": {
+      "linkAdvantagesMember": "Переваги для членів Клубу",
+      "titlePopupSms": "Виберіть телефон для підтвердження"
+    },
+    "search": {
+      "time": {
+        "name": "Час",
+        "type": "radio",
+        "tag": [
+          {
+            "name": "1 година"
+          },
+          {
+            "name": "1.5 години"
+          }
+        ]
+      },
+      "coating": {
+        "name": "Покриття",
+        "tag": [
+          {
+            "name": "Грунт"
+          },
+          {
+            "name": "Трава"
+          },
+          {
+            "name": "Хард"
+          },
+          {
+            "name": "Паркет"
+          }
+        ]
+      },
+      "type": {
+        "name": "Тип",
+        "tag": [
+          {
+            "name": "Критий"
+          },
+          {
+            "name": "Відкритий"
+          }
+        ]
+      },
+      "filter": {
+        "title": "Фільтр",
+        "all": "Показувати всі",
+        "available": "Показувати тільки доступні"
+      }
+    },
+    "advantages": {
+      "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/advantages-img.jpg",
+      "text": "Теніс у Києві відкриває величезні можливості для всіх сучасних енергійних людей. Цей вид спорту став по-справжньому доступний тільки в останні роки, коли з’явилися професійно підготовлені тренери та високотехнологічна спортивна база.\n\n Криті тенісні корти, які відповідають міжнародним стандартам, дозволяють проводити заняття регулярно, в тому числі в негоду, що дуже важливо для освоєння ігрової техніки.",
+      "linkCardClub": "Карти Клубу"
+    },
+    "onboarding": [
+      {
+        "title": "Оберіть локацію",
+        "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/racket-field.png",
+        "text": "Лорем ипсум долор сит амет, яуандо цопиосае реферрентур еи при."
+      },
+      {
+        "title": "Забронюйте вільний час",
+        "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/two-racket-field.png",
+        "text": "Еум еи нонумы поссим алияуам. Те проприае принципес дефинитионем усу, ест амет инани темпорибус ат, еи вирис нолуиссе еос."
+      },
+      {
+        "title": "Гарної гри!",
+        "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/racket-boy.png",
+        "text": "Вих хомеро утамур инвенире ет, еа про натум цорпора. Ад делецтус хонестатис меа, усу нобис партиендо ин."
+      }
+    ],
+    "tickets": {
+      "thereNothing": "Тут ще нічого немає",
+      "ticketBgImage": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/ticketBg.png"
+    }
+  },
+  "questionsContact": {
+    "text": "З усіх питань щодо членства звертайтесь до адміністратора або за номером",
+    "phones": [
+      "+380 67 209 88 28"
+    ]
+  }
 }
