@@ -71,6 +71,7 @@
 		"search": {
 			"time": {
 				"name": "Час",
+				"type": "radio",
 				"tag": [
 					{
 						"name": "1 година"
