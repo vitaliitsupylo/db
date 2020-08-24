@@ -7,7 +7,8 @@
       "clubCards": "Карти Клубу",
       "available": "Доступні корти для бронювання",
       "tickets": "Квитки",
-      "search": "Виберіть розташування"
+      "search": "Виберіть розташування",
+      "titleFilter": "Фільтр"
     },
     "buttons": {
       "begin": "Розпочати",
@@ -109,17 +110,16 @@
           }
         ]
       },
-      "filter": {
-        "title": "Фільтр",
-        "arrField": [
-          {
-            "all": "Показувати всі"
-          },
-          {
-            "available": "Показувати тільки доступні"
-          }
-        ]
-      }
+      "filter": [
+        {
+          "type": "all",
+          "name": "Показувати всі"
+        },
+        {
+          "type": "available",
+          "name": "Показувати тільки доступні"
+        }
+      ]
     },
     "advantages": {
       "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/advantages-img.jpg",
