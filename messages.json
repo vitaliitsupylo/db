@@ -26,7 +26,8 @@
       "delete": "Видалити",
       "cancel": "Відмінити",
       "newLocation": "Оберіть нову локацію",
-      "reserve": "Забронювати"
+      "reserve": "Забронювати",
+      "needToPay": "До сплати"
     },
     "placeholder": {
       "phone": "Номер телефону",
@@ -121,7 +122,9 @@
           "type": "available",
           "name": "Показувати тільки доступні"
         }
-      ]
+      ],
+      "timeLeft": "До зняття бронювання залишилось",
+      "timeIsUp": "Час бронювання вичерпано!"
     },
     "advantages": {
       "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/advantages-img.jpg",
