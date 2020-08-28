@@ -1,60 +1,68 @@
-{
-  "223": {
-    "name": "MTA",
-    "locations": [
-      {
-        "id": 14,
-        "name": "Тенісний клуб МТА (Соломенка)",
-        "description": "Професійна команда тренерів, сучасні грунтові корти, рівномірне і безшумне освітлення зимового купола",
-        "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Соломенка.jpg",
-        "latitude": "50.426356",
-        "longitude": "30.472605"
-      },
-      {
-        "id": 21,
-        "name": "Арена МТА, Жуляни",
-        "description": "До послуг тенісистів і членів клубу МТА 13 кортів з сучасним професійним покриттям",
-        "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Жуляни.jpg",
-        "latitude": "50.494486",
-        "longitude": "30.447957"
-      },
-      {
-        "id": 31,
-        "name": "МТА: Пуща-Водиця",
-        "description": "До послуг тенісистів і членів клубу МТА 19 кортів з сучасним професійним покриттям",
-        "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Пуща-Водиця.jpg",
-        "latitude": "50.529772",
-        "longitude": "30.371085"
-      }
-    ]
+[
+  {
+    "id": 10,
+    "name": "Тенісний клуб МТА (Соломенка)",
+    "description": "Професійна команда тренерів, сучасні грунтові корти, рівномірне і безшумне освітлення зимового купола",
+    "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Соломенка.jpg",
+    "latitude": 50.426357,
+    "longitude": 30.472605,
+    "monitorInstanceId": 2,
+    "enabled": true,
+    "hidden": false
   },
-  "156": {
-    "name": "Test",
-    "locations": [
-      {
-        "id": 17,
-        "name": "Тенісний клуб Test (Соломенка)",
-        "description": "Професійна команда тренерів, сучасні грунтові корти, рівномірне і безшумне освітлення зимового купола",
-        "image": "https://sportequip.com.ua/image/cache/catalog/blog/dscf1301_1_1-auto_width_500.jpg",
-        "latitude": "50.419356",
-        "longitude": "30.412605"
-      },
-      {
-        "id": 2,
-        "name": "Арена Test, Жуляни",
-        "description": "До послуг тенісистів і членів клубу МТА 13 кортів з сучасним професійним покриттям",
-        "image": "https://www.prostanki.com/img/boardpics/2019_07/7wWD3iYCna9Ct5UaUHwq.jpg",
-        "latitude": "50.424486",
-        "longitude": "30.417957"
-      },
-      {
-        "id": 9,
-        "name": "Test: Пуща-Водиця",
-        "description": "До послуг тенісистів і членів клубу МТА 19 кортів з сучасним професійним покриттям",
-        "image": "https://puscha-dnipro.com.ua/images/kort/DSC09245.jpg",
-        "latitude": "50.539772",
-        "longitude": "30.381085"
-      }
-    ]
+  {
+    "id": 11,
+    "name": "Арена МТА, Жуляни",
+    "description": "До послуг тенісистів і членів клубу МТА 13 кортів з сучасним професійним покриттям",
+    "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Жуляни.jpg",
+    "latitude": 50.414486,
+    "longitude": 30.447956,
+    "monitorInstanceId": 2,
+    "enabled": true,
+    "hidden": false
+  },
+  {
+    "id": 12,
+    "name": "МТА: Пуща-Водиця",
+    "description": "До послуг тенісистів і членів клубу МТА 19 кортів з сучасним професійним покриттям",
+    "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Пуща-Водиця.jpg",
+    "latitude": 50.529774,
+    "longitude": 30.371084,
+    "monitorInstanceId": 2,
+    "enabled": true,
+    "hidden": false
+  },
+  {
+    "id": 17,
+    "name": "Тенісний клуб Test (Соломенка)",
+    "description": "Професійна команда тренерів, сучасні грунтові корти, рівномірне і безшумне освітлення зимового купола",
+    "image": "https://sportequip.com.ua/image/cache/catalog/blog/dscf1301_1_1-auto_width_500.jpg",
+    "latitude": "50.419356",
+    "longitude": "30.412605",
+    "monitorInstanceId": 3,
+    "enabled": true,
+    "hidden": false
+  },
+  {
+    "id": 2,
+    "name": "Арена Test, Жуляни",
+    "description": "До послуг тенісистів і членів клубу МТА 13 кортів з сучасним професійним покриттям",
+    "image": "https://www.prostanki.com/img/boardpics/2019_07/7wWD3iYCna9Ct5UaUHwq.jpg",
+    "latitude": "50.424486",
+    "longitude": "30.417957",
+    "monitorInstanceId": 3,
+    "enabled": true,
+    "hidden": false
+  },
+  {
+    "id": 9,
+    "name": "Test: Пуща-Водиця",
+    "description": "До послуг тенісистів і членів клубу МТА 19 кортів з сучасним професійним покриттям",
+    "image": "https://puscha-dnipro.com.ua/images/kort/DSC09245.jpg",
+    "latitude": "50.539772",
+    "longitude": "30.381085",
+    "monitorInstanceId": 3,
+    "enabled": true,
+    "hidden": false
   }
-}
+]
