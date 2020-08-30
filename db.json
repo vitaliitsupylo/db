@@ -4,6 +4,11 @@
     "name": "Тенісний клуб МТА (Соломенка)",
     "description": "Професійна команда тренерів, сучасні грунтові корти, рівномірне і безшумне освітлення зимового купола",
     "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Соломенка.jpg",
+    "greeting": {
+      "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/logo-welcome.png",
+      "title": "Вітаємо у Тенісному Клубі МТА (Солом’янка)",
+      "description": "Індивідуальні тренування допоможуть вам набратися сил, прийти в кращу форму і приймати здоровий спосіб життя"
+    },
     "latitude": 50.426357,
     "longitude": 30.472605,
     "monitorInstanceId": 2,
@@ -15,6 +20,11 @@
     "name": "Арена МТА, Жуляни",
     "description": "До послуг тенісистів і членів клубу МТА 13 кортів з сучасним професійним покриттям",
     "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Жуляни.jpg",
+    "greeting": {
+      "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/logo-welcome.png",
+      "title": "Вітаємо у Арені МТА (Жуляни)",
+      "description": "Індивідуальні тренування допоможуть вам набратися сил, прийти в кращу форму і приймати здоровий спосіб життя"
+    },
     "latitude": 50.414486,
     "longitude": 30.447956,
     "monitorInstanceId": 2,
@@ -26,6 +36,11 @@
     "name": "МТА: Пуща-Водиця",
     "description": "До послуг тенісистів і членів клубу МТА 19 кортів з сучасним професійним покриттям",
     "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/courts/Пуща-Водиця.jpg",
+    "greeting": {
+      "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/logo-welcome.png",
+      "title": "Вітаємо у Тенісному Клубі МТА (Солом’янка)",
+      "description": "Індивідуальні тренування допоможуть вам набратися сил, прийти в кращу форму і приймати здоровий спосіб життя"
+    },
     "latitude": 50.529774,
     "longitude": 30.371084,
     "monitorInstanceId": 2,
@@ -37,6 +52,11 @@
     "name": "Тенісний клуб Test (Соломенка)",
     "description": "Професійна команда тренерів, сучасні грунтові корти, рівномірне і безшумне освітлення зимового купола",
     "image": "https://sportequip.com.ua/image/cache/catalog/blog/dscf1301_1_1-auto_width_500.jpg",
+    "greeting": {
+      "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/boll-enter.png",
+      "title": "Вітаємо у Тенісному Клубі Test (Солом’янка)",
+      "description": "Індивідуальні тренування допоможуть вам набратися сил, прийти в кращу форму і приймати здоровий спосіб життя"
+    },
     "latitude": "50.419356",
     "longitude": "30.412605",
     "monitorInstanceId": 3,
@@ -48,6 +68,11 @@
     "name": "Арена Test, Жуляни",
     "description": "До послуг тенісистів і членів клубу МТА 13 кортів з сучасним професійним покриттям",
     "image": "https://www.prostanki.com/img/boardpics/2019_07/7wWD3iYCna9Ct5UaUHwq.jpg",
+    "greeting": {
+      "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/boll-enter.png",
+      "title": "Вітаємо у Арені Test, Жуляни",
+      "description": "Індивідуальні тренування допоможуть вам набратися сил, прийти в кращу форму і приймати здоровий спосіб життя"
+    },
     "latitude": "50.424486",
     "longitude": "30.417957",
     "monitorInstanceId": 3,
@@ -59,6 +84,11 @@
     "name": "Test: Пуща-Водиця",
     "description": "До послуг тенісистів і членів клубу МТА 19 кортів з сучасним професійним покриттям",
     "image": "https://puscha-dnipro.com.ua/images/kort/DSC09245.jpg",
+    "greeting": {
+      "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/boll-enter.png",
+      "title": "Вітаємо у Test: Пуща-Водиця",
+      "description": "Індивідуальні тренування допоможуть вам набратися сил, прийти в кращу форму і приймати здоровий спосіб життя"
+    },
     "latitude": "50.539772",
     "longitude": "30.381085",
     "monitorInstanceId": 3,
