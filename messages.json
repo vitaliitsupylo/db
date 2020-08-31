@@ -42,7 +42,8 @@
       "cardNameTitle": "Власник картки"
     },
     "other": {
-      "km": "км"
+      "km": "км",
+      "ourContacts": "Наші контакти:"
     },
     "logo": {
       "white": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/MTA-logo-white.png",
