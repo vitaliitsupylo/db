@@ -13,7 +13,28 @@
     "longitude": 30.472605,
     "monitorInstanceId": 2,
     "enabled": true,
-    "hidden": false
+    "hidden": false,
+    "moreDetails": {
+      "images": [
+        "http://inform.sumy.ua/org/images/325.jpg",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/F4EEF2EE.JPG",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/meridian3.jpg",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/janinnfitness2.jpg"
+      ],
+      "textContent": "<h2>Тенісна Арена МТА - розташована в Солом'янському районі Києва, в безпосередній близькості від міжнародного аеропорту «Київ» («Жуляни») ім. Сікорського:</h2><ul><li>13 відкритих і критих тенісних кортів з професійним хардовим і ґрунтовим покриттям відповідають стандартам ITF;</li><li>успішна Школа тенісу МТА для дітей;</li><li>комфортні трибуни для уболівальників;</li><li>просторі роздягальні і душові;</li><li>спортивний бар для відвідувачів;</li><li>цілодобово парковка з сучасною системою відеоспостереження.</li></ul>",
+      "contacts": {
+        "phones": [
+          "067 555 00 93"
+        ],
+        "address": "Київ, Повітрофлотський пр-т, 63",
+        "site": "tennis-academy.com.ua",
+        "social": {
+          "instagram": "https://www.instagram.com/mtakyiv/?hl=ru",
+          "youtube": "https://www.youtube.com/watch?v=x9egGqi7ERI&list=UUjuqSnes7HukJkYHf1rn7rw",
+          "facebook": "https://www.facebook.com/mtakyiv"
+        }
+      }
+    }
   },
   {
     "id": 11,
@@ -29,7 +50,28 @@
     "longitude": 30.447956,
     "monitorInstanceId": 2,
     "enabled": true,
-    "hidden": false
+    "hidden": false,
+    "moreDetails": {
+      "images": [
+        "http://inform.sumy.ua/org/images/325.jpg",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/F4EEF2EE.JPG",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/meridian3.jpg",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/janinnfitness2.jpg"
+      ],
+      "textContent": "<h2>Севастопольської площі, запрошує дітей та дорослих займатися тенісом:</h2><ul><li>Школа тенісу МТА для дітей;</li><li>5 тенісних кортів під куполом, що мають сертифіковане, професійне ґрунтове покриття, на яких можна проводити турніри різного рівня;</li><li>зручні роздягальні;</li><li>парковка, де ви можете залишити свій автомобіль на час занять в клубі;</li><li>безкоштовний швидкісний Wi-Fi на всій території клубу.</li></ul>",
+      "contacts": {
+        "phones": [
+          "067 209 88 28"
+        ],
+        "address": "Київ, вул.Максима Кривоноса, 2г ",
+        "site": "tennis-academy.com.ua",
+        "social": {
+          "instagram": "https://www.instagram.com/mtakyiv/?hl=ru",
+          "youtube": "https://www.youtube.com/watch?v=x9egGqi7ERI&list=UUjuqSnes7HukJkYHf1rn7rw",
+          "facebook": "https://www.facebook.com/mtakyiv"
+        }
+      }
+    }
   },
   {
     "id": 12,
@@ -45,7 +87,28 @@
     "longitude": 30.371084,
     "monitorInstanceId": 2,
     "enabled": true,
-    "hidden": false
+    "hidden": false,
+    "moreDetails": {
+      "images": [
+        "http://inform.sumy.ua/org/images/325.jpg",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/F4EEF2EE.JPG",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/meridian3.jpg",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/janinnfitness2.jpg"
+      ],
+      "textContent": "<h2>Міжнародна тенісна академія - сучасний спортивний комплекс в курортній Пущі-Водиці:</h2><ul><li>19 кортів з професійним покриттям (ґрунтовим, хардовим і паркетним); відповідають стандартам міжнародної федерації тенісу ITF;</li><li>загальноосвітня альтернативна середня школа (пансіон, напівпансіон, денна форма);</li><li>фітнес-клуб зі спортивним 25-метровим басейном (4 доріжки) і фітнес-студіями</li><li>кампус із 2- і 3-місними кімнатами;</li><li>готель (32 номери);</li>\n        <li>літня тераса з басейном і рестораном;</li><li>спорт-бар і фудкорт (їдальня).</li></ul>",
+      "contacts": {
+        "phones": [
+          "044 339 97 70"
+        ],
+        "address": "Київ, Пуща Водица, ул.Міська, 9",
+        "site": "tennis-academy.com.ua",
+        "social": {
+          "instagram": "https://www.instagram.com/mtakyiv/?hl=ru",
+          "youtube": "https://www.youtube.com/watch?v=x9egGqi7ERI&list=UUjuqSnes7HukJkYHf1rn7rw",
+          "facebook": "https://www.facebook.com/mtakyiv"
+        }
+      }
+    }
   },
   {
     "id": 17,
@@ -61,7 +124,28 @@
     "longitude": "30.412605",
     "monitorInstanceId": 3,
     "enabled": true,
-    "hidden": false
+    "hidden": false,
+    "moreDetails": {
+      "images": [
+        "http://inform.sumy.ua/org/images/325.jpg",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/F4EEF2EE.JPG",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/meridian3.jpg",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/janinnfitness2.jpg"
+      ],
+      "textContent": "<h2>Тенісна Арена МТА - розташована в Солом'янському районі Києва, в безпосередній близькості від міжнародного аеропорту «Київ» («Жуляни») ім. Сікорського:</h2><ul><li>13 відкритих і критих тенісних кортів з професійним хардовим і ґрунтовим покриттям відповідають стандартам ITF;</li><li>успішна Школа тенісу МТА для дітей;</li><li>комфортні трибуни для уболівальників;</li><li>просторі роздягальні і душові;</li><li>спортивний бар для відвідувачів;</li><li>цілодобово парковка з сучасною системою відеоспостереження.</li></ul>",
+      "contacts": {
+        "phones": [
+          "067 555 00 93"
+        ],
+        "address": "Київ, Повітрофлотський пр-т, 63",
+        "site": "tennis-academy.com.ua",
+        "social": {
+          "instagram": "https://www.instagram.com/mtakyiv/?hl=ru",
+          "youtube": "https://www.youtube.com/watch?v=x9egGqi7ERI&list=UUjuqSnes7HukJkYHf1rn7rw",
+          "facebook": "https://www.facebook.com/mtakyiv"
+        }
+      }
+    }
   },
   {
     "id": 2,
@@ -77,7 +161,28 @@
     "longitude": "30.417957",
     "monitorInstanceId": 3,
     "enabled": true,
-    "hidden": false
+    "hidden": false,
+    "moreDetails": {
+      "images": [
+        "http://inform.sumy.ua/org/images/325.jpg",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/F4EEF2EE.JPG",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/meridian3.jpg",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/janinnfitness2.jpg"
+      ],
+      "textContent": "<h2>Севастопольської площі, запрошує дітей та дорослих займатися тенісом:</h2><ul><li>Школа тенісу МТА для дітей;</li><li>5 тенісних кортів під куполом, що мають сертифіковане, професійне ґрунтове покриття, на яких можна проводити турніри різного рівня;</li><li>зручні роздягальні;</li><li>парковка, де ви можете залишити свій автомобіль на час занять в клубі;</li><li>безкоштовний швидкісний Wi-Fi на всій території клубу.</li></ul>",
+      "contacts": {
+        "phones": [
+          "067 209 88 28"
+        ],
+        "address": "Київ, вул.Максима Кривоноса, 2г ",
+        "site": "tennis-academy.com.ua",
+        "social": {
+          "instagram": "https://www.instagram.com/mtakyiv/?hl=ru",
+          "youtube": "https://www.youtube.com/watch?v=x9egGqi7ERI&list=UUjuqSnes7HukJkYHf1rn7rw",
+          "facebook": "https://www.facebook.com/mtakyiv"
+        }
+      }
+    }
   },
   {
     "id": 9,
@@ -93,6 +198,27 @@
     "longitude": "30.381085",
     "monitorInstanceId": 3,
     "enabled": true,
-    "hidden": false
+    "hidden": false,
+    "moreDetails": {
+      "images": [
+        "http://inform.sumy.ua/org/images/325.jpg",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/F4EEF2EE.JPG",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/meridian3.jpg",
+        "https://nashkiev.ua/ckeditor_assets/old_site/50864/janinnfitness2.jpg"
+      ],
+      "textContent": "<h2>Міжнародна тенісна академія - сучасний спортивний комплекс в курортній Пущі-Водиці:</h2><ul><li>19 кортів з професійним покриттям (ґрунтовим, хардовим і паркетним); відповідають стандартам міжнародної федерації тенісу ITF;</li><li>загальноосвітня альтернативна середня школа (пансіон, напівпансіон, денна форма);</li><li>фітнес-клуб зі спортивним 25-метровим басейном (4 доріжки) і фітнес-студіями</li><li>кампус із 2- і 3-місними кімнатами;</li><li>готель (32 номери);</li>\n        <li>літня тераса з басейном і рестораном;</li><li>спорт-бар і фудкорт (їдальня).</li></ul>",
+      "contacts": {
+        "phones": [
+          "044 339 97 70"
+        ],
+        "address": "Київ, Пуща Водица, ул.Міська, 9",
+        "site": "tennis-academy.com.ua",
+        "social": {
+          "instagram": "https://www.instagram.com/mtakyiv/?hl=ru",
+          "youtube": "https://www.youtube.com/watch?v=x9egGqi7ERI&list=UUjuqSnes7HukJkYHf1rn7rw",
+          "facebook": "https://www.facebook.com/mtakyiv"
+        }
+      }
+    }
   }
 ]
