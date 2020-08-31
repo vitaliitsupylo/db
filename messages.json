@@ -149,6 +149,12 @@
     "tickets": {
       "thereNothing": "Тут ще нічого немає",
       "ticketBgImage": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/ticketBg.png"
+    },
+    "profile": {
+      "orders": "Мої замовлення",
+      "message": "Повідомлення",
+      "settings": "Налаштування",
+      "clubCard": "Номер Карти клуба МТА"
     }
   },
   "questionsContact": {
