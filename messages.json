@@ -130,7 +130,9 @@
         }
       ],
       "timeLeft": "До зняття бронювання залишилось",
-      "timeIsUp": "Час бронювання вичерпано!"
+      "timeIsUp": "Час бронювання вичерпано!",
+      "informTitle": "У цей день вільних кортів немає",
+      "informText": "Повідомити про корти, що стали доступні"
     },
     "advantages": {
       "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/advantages-img.jpg",
