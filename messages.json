@@ -159,7 +159,11 @@
     ],
     "tickets": {
       "thereNothing": "Тут ще нічого немає",
-      "ticketBgImage": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/ticketBg.png"
+      "ticketBgImage": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/ticketBg.png",
+      "undoTitle": "Скасування бронювання та повернення коштів",
+      "undoTextFirst": "Скасування можливо здійснити не менш ніж за 3 години до початку оплаченого періоду",
+      "undoTextSecond": "Грошові кошти буде повернено на картковий рахунок протягом 3-х банківських днів",
+      "undoButton": "Повернути кошти"
     },
     "profile": {
       "orders": "Мої замовлення",
