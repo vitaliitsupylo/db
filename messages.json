@@ -70,7 +70,7 @@
     "enter": {
       "linkAdvantagesMember": "Переваги для членів Клубу",
       "titlePopupSms": "Виберіть телефон для підтвердження",
-      "error": {
+      "errors": {
         "phoneAnonym": {
           "text": "Перевірте формат введеного номера телефону.",
           "button": ""
