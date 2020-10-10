@@ -167,7 +167,7 @@
       ]
     },
     "pay": {
-      "methodsPay": [
+      "methods": [
         {
           "type": "card",
           "name": "Кредитна картка"
