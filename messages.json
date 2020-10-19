@@ -170,6 +170,7 @@
       "methods": [
         {
           "type": "card",
+          "methods": "easypay",
           "name": "Кредитна картка"
         }
       ]
