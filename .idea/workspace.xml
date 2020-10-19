@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1b2dc35-303f-4d6f-9244-c7ab4af0bb21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/messages.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +86,8 @@
       <workItem from="1600504636879" duration="6000" />
       <workItem from="1600510938579" duration="75000" />
       <workItem from="1600552004118" duration="499000" />
-      <workItem from="1603130420481" duration="66000" />
+      <workItem from="1603130420481" duration="80000" />
+      <workItem from="1603134540991" duration="129000" />
     </task>
     <servers />
   </component>
@@ -115,10 +117,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598647398548" />
-    <state x="433" y="200" width="670" height="580" key="search.everywhere.popup" timestamp="1600457326551">
+    <state x="433" y="200" width="670" height="580" key="search.everywhere.popup" timestamp="1603134554166">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="433" y="200" width="670" height="580" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1600457326551" />
+    <state x="433" y="200" width="670" height="580" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603134554166" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1598792977713" />
   </component>
 </project>

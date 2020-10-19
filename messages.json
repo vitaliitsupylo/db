@@ -13,7 +13,8 @@
       "stocks": "Акції",
       "pay": "Оберіть спосіб оплати",
       "myOrders": "Мої замовлення",
-      "titleSorting": "Сортувати"
+      "titleSorting": "Сортувати",
+      "titlePaymentCard": "Оплата кредитною карткою"
     },
     "buttons": {
       "begin": "Розпочати",
