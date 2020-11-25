@@ -148,6 +148,9 @@
       "message": "Повідомлення",
       "settings": "Налаштування",
       "clubCard": "Номер Карти клуба МТА",
+      "profilePhoto": "Фото профілю",
+      "takePhoto": "Зробити фото",
+      "uploadPhoto": "Завантажити фото",
       "sorting": [
         {
           "type": "date",
