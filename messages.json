@@ -111,7 +111,8 @@
       "timeLeftCourt": "Час до кінця вибору кортів",
       "timeIsUpCourt": "Час вичерпано",
       "informTitle": "У цей час вільних кортів немає",
-      "informText": "Повідомити про корти, що стали доступні"
+      "informText": "Повідомити про корти, що стали доступні",
+      "courtsAvailable": "Немає доступних кортів"
     },
     "advantages": {
       "image": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/advantages-img.jpg",
