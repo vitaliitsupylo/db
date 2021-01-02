@@ -205,15 +205,19 @@
       "button": ""
     },
     "reservationCanceledGeneral": {
-      "text": "Процессинговый центр не доступен. Повторите попытку."
+      "type": "General",
+      "text": "Щось пішло не так, зв'яжіться будь ласка з менеджером!"
     },
     "reservationCanceledMonitor": {
+      "type": "1",
       "text": "Не вдалося скасувати резервацію в системі."
     },
     "reservationCanceledNotMoney": {
+      "type": "2",
       "text": "Не вдалося повернути оплату так як недостатньо грошей на рахунку."
     },
     "reservationCanceledPartial": {
+      "type": "3",
       "text": "Тимчасово неможливо виконати повторне часткове скасування"
     }
   }
