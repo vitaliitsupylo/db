@@ -71,8 +71,9 @@
   },
   "pages": {
     "enter": {
-      "linkAdvantagesMember": "Переваги для членів Клубу",
-      "titlePopupSms": "Виберіть телефон для підтвердження",
+      "linkAdvantagesMember": "Переваги для членів Клубу.",
+      "titlePopupSms": "Виберіть телефон для підтвердження.",
+      "titlePopupNoPhone": "Карта не знайдена або список контактів порожній.",
       "errors": {
         "phoneAnonym": {
           "text": "Перевірте формат введеного номера телефону.",
