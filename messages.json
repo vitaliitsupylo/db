@@ -184,6 +184,12 @@
       "thanks": "Дякуємо!",
       "thanksDescription": "Бронювання підтверджено!",
       "ticketsHere": "Ваші квитки тут"
+    },
+    "reservations": {
+      "questionCanceled": "Ви дійсно хочете скасувати резервацію?",
+      "cancelYes": "ТАК",
+      "cancelNo": "НІ",
+      "successfullyCanceled": "Резервація успішно скасована."
     }
   },
   "questionsContact": {
@@ -197,6 +203,18 @@
       "type": 1,
       "text": "Процессинговый центр не доступен. Повторите попытку.",
       "button": ""
+    },
+    "reservationCanceledGeneral": {
+      "text": "Процессинговый центр не доступен. Повторите попытку."
+    },
+    "reservationCanceledMonitor": {
+      "text": "Не вдалося скасувати резервацію в системі."
+    },
+    "reservationCanceledNotMoney": {
+      "text": "Не вдалося повернути оплату так як недостатньо грошей на рахунку."
+    },
+    "reservationCanceledPartial": {
+      "text": "Тимчасово неможливо виконати повторне часткове скасування"
     }
   }
 }
