@@ -14,7 +14,8 @@
       "pay": "Оберіть спосіб оплати",
       "myOrders": "Мої замовлення",
       "titleSorting": "Сортувати",
-      "titlePaymentCard": "Оплата кредитною карткою"
+      "titlePaymentCard": "Оплата кредитною карткою",
+      "settings": "Налаштування"
     },
     "buttons": {
       "begin": "Розпочати",
