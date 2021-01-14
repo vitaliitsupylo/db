@@ -50,7 +50,8 @@
     },
     "other": {
       "km": "км",
-      "ourContacts": "Наші контакти:"
+      "ourContacts": "Наші контакти:",
+      "noMessages": "Поки що немає ніяких повідомлень."
     },
     "logo": {
       "white": "https://raw.githubusercontent.com/vitaliitsupylo/db/master/images/MTA-logo-white.png",
