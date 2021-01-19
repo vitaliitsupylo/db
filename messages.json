@@ -34,7 +34,8 @@
       "newLocation": "Оберіть нову локацію",
       "reserve": "Забронювати",
       "needToPay": "До сплати",
-      "close": "Закрити"
+      "close": "Закрити",
+      "confirm":"Підтвердити"
     },
     "placeholder": {
       "phone": "Номер телефону",
