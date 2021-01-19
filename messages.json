@@ -46,7 +46,10 @@
       "cardTitle": "Номер картки",
       "cardTermTitle": "Термін придатності",
       "cardCodeTitle": "Код безпеки",
-      "cardNameTitle": "Власник картки"
+      "cardNameTitle": "Власник картки",
+      "placeholderFirstName":"Ім'я",
+      "placeholderLastName": "Прізвище",
+      "placeholderEmailAddress": "Email"
     },
     "other": {
       "km": "км",
