@@ -35,7 +35,7 @@
       "reserve": "Забронювати",
       "needToPay": "До сплати",
       "close": "Закрити",
-      "confirm":"Підтвердити"
+      "confirm": "Підтвердити"
     },
     "placeholder": {
       "phone": "Номер телефону",
@@ -48,7 +48,7 @@
       "cardTermTitle": "Термін придатності",
       "cardCodeTitle": "Код безпеки",
       "cardNameTitle": "Власник картки",
-      "placeholderFirstName":"Ім'я",
+      "placeholderFirstName": "Ім'я",
       "placeholderLastName": "Прізвище",
       "placeholderEmailAddress": "Email"
     },
@@ -163,19 +163,23 @@
       "sorting": [
         {
           "type": "date",
-          "name": "За датою бронювання"
+          "name": "За датою бронювання",
+          "order": 3965314901
         },
         {
-          "type": "place",
-          "name": "За місцем розташування"
+          "type": "location",
+          "name": "За назвою локації",
+          "order": 3965314902
         },
         {
           "type": "covering",
-          "name": "За покриттям"
+          "name": "За покриттям",
+          "order": 3965314903
         },
         {
           "type": "type",
-          "name": "За типом"
+          "name": "За типом",
+          "order": 3965314904
         }
       ]
     },
