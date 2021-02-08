@@ -231,5 +231,17 @@
       "type": "3",
       "text": "Тимчасово неможливо виконати повторне часткове скасування."
     }
+  },
+  "globalErrors":{
+    "sessionSocket":{
+      "1": "Database access error",
+      "2": "No data found",
+      "6": "Reserves Manager service inaccessible",
+      "9": "Monitor Session mismatch",
+      "10": "Bad authorization token",
+      "11": "Customer is locked",
+      "13": "Wrong request query parameters",
+      "all": "Щось пішло не так, спробуйте пізніше."
+    }
   }
 }
