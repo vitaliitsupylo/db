@@ -242,6 +242,10 @@
       "11": "Customer is locked",
       "13": "Wrong request query parameters",
       "all": "Щось пішло не так, спробуйте пізніше."
+    },
+    "tikets":{
+      "1": "Database access error",
+      "all": "Щось пішло не так, спробуйте пізніше."
     }
   }
 }
